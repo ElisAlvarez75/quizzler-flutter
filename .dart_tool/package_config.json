@@ -137,10 +137,10 @@
       "name": "quizzler",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.0"
     }
   ],
-  "generated": "2021-02-26T15:20:17.046423Z",
+  "generated": "2021-02-26T18:58:53.821895Z",
   "generator": "pub",
   "generatorVersion": "2.10.5"
 }
